@@ -1,6 +1,6 @@
 # orgtheme-ceda-serv
 
-Bootstrap 4 organisation theme (colour scheme) for "CEDA Services" web components.
+Bootstrap 4 organisation theme (colour scheme) for "Datamad" web components.
 
 The demo page demo/index.html provides examples of typography, layout styles and functional elements which can be used to construct templates.
 
@@ -8,7 +8,7 @@ It is not, itself, a template.
 
 ## Installation
 
-`orgtheme-ceda-serv` can be installed directly from Github using pip, e.g. into an existing `venv`:
+`orgtheme-datamad` can be installed directly from Github using pip, e.g. into an existing `venv`:
 
 ```
 $ virtualenv --no-site-packages ./venv
